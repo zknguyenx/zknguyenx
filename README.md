@@ -2,7 +2,7 @@
 [![telegram](https://img.shields.io/badge/ZKNguyen-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zknguyenx/)&nbsp;&nbsp;&nbsp;
 <p align="justify"> 
 
-Welcome to my github profile 📫. I'm ZK Nguyen, a programmer. Learning and improving day by day ⚡, making tools to help the community.
+Welcome to my github profile 📫. I'm ZK Nguyen. Learning and improving day by day ⚡, making tools to help the community.
 
 </p>
 
